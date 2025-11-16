@@ -1,0 +1,41 @@
+class,true_qty,pred_qty
+Rice,180,210
+Rice,200,170
+Rice,150,165
+Rice,220,240
+Rice,100,95
+Apple,120,90
+Apple,140,160
+Apple,100,80
+Apple,130,150
+Apple,90,70
+Burger,150,190
+Burger,200,230
+Burger,250,280
+Burger,180,210
+Burger,300,330
+Pizza,250,300
+Pizza,280,260
+Pizza,200,230
+Pizza,300,340
+Pizza,220,210
+Vada,80,95
+Vada,100,120
+Vada,60,75
+Vada,90,110
+Vada,120,135
+Soda,330,350
+Soda,200,210
+Soda,150,180
+Soda,250,260
+Soda,400,390
+Banana,110,130
+Banana,90,70
+Banana,100,120
+Banana,80,95
+Banana,130,150
+Chicken Gravy,200,230
+Chicken Gravy,180,210
+Chicken Gravy,220,250
+Chicken Gravy,250,270
+Chicken Gravy,150,180

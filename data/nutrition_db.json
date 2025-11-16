@@ -1,0 +1,74 @@
+{
+    "Apple": {
+        "proteines": 0.3,
+        "glucides": 14.0,
+        "sucres": 10.4,
+        "graisses": 0.2
+    },
+    "banana": {
+        "proteines": 1.1,
+        "glucides": 23.0,
+        "sucres": 12.2,
+        "graisses": 0.3
+    },
+    "burger": {
+        "proteines": 13.0,
+        "glucides": 30.0,
+        "sucres": 5.5,
+        "graisses": 12.0
+    },
+    "Fries": {
+        "proteines": 3.4,
+        "glucides": 41.0,
+        "sucres": 0.3,
+        "graisses": 15.0
+    },
+    "Rice": {
+        "proteines": 2.7,
+        "glucides": 28.0,
+        "sucres": 0.1,
+        "graisses": 0.3
+    },
+    "Tomato": {
+        "proteines": 0.9,
+        "glucides": 3.9,
+        "sucres": 2.6,
+        "graisses": 0.2
+    },
+    "Pizza": {
+        "proteines": 11.0,
+        "glucides": 28.0,
+        "sucres": 3.2,
+        "graisses": 9.5
+    },
+    "Chicken Gravy": {
+        "proteines": 27.0,
+        "glucides": 3.0,
+        "sucres": 1.5,
+        "graisses": 6.0
+    },
+    "Chapathi": {
+        "proteines": 8.0,
+        "glucides": 49.0,
+        "sucres": 1.3,
+        "graisses": 3.0
+    },
+    "Vada": {
+        "proteines": 4.0,
+        "glucides": 24.0,
+        "sucres": 3.5,
+        "graisses": 15.0
+    },
+    "idli": {
+        "proteines": 2.7,
+        "glucides": 15.0,
+        "sucres": 1.2,
+        "graisses": 0.4
+    },
+    "Soda": {
+        "proteines": 0.0,
+        "glucides": 10.6,
+        "sucres": 10.6,
+        "graisses": 0.0
+    }
+}
