@@ -27,19 +27,33 @@ SMEAL has been tested with:
 
 # 📌 2. Clone the Repository
 git clone https://github.com/A3M-ILS/Smeal.git
+
 python -m venv venv
+
 venv\Scripts\activate
+
 pip install -r requirements.txt
+
 Main libraries:
+
 ultralytics (YOLOv8)
+
 opencv-python
+
 pillow
+
 numpy
+
 pandas
+
 scikit-learn
+
 joblib
+
 plotly
+
 gradio
+
 matplotlib
 
 Project Structure
