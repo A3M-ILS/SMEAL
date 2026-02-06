@@ -85,6 +85,6 @@ Smeal/
     ├── train_quantity_model.py
     ├── evaluate
 
-# 📌 1. Start the interface:
+# 📌 3. Start the interface:
 
 python app.py
